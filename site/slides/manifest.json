@@ -1,0 +1,17 @@
+{
+ "iters": 200000,
+ "docs": {
+  "g": {
+   "name": "VO Gebäudephysik I – Folien",
+   "pages": 272
+  },
+  "f": {
+   "name": "Formelsammlung",
+   "pages": 8
+  },
+  "p": {
+   "name": "Prüfung 1. Termin (mit Markierungen)",
+   "pages": 6
+  }
+ }
+}
